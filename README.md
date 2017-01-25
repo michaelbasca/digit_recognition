@@ -62,3 +62,4 @@ This will open the Jupyter Notebook software and notebook file in your browser.
 
 While no data is directly provided with the project, you will be required to download and use the [Street View House Numbers (SVHN) dataset](http://ufldl.stanford.edu/housenumbers/), along with either the [notMNIST](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html) or [MNIST](http://yann.lecun.com/exdb/mnist/) datasets. If you've completed the course material, the **notMINIST** dataset should already be available.
 # digit
+# digit_recognition
